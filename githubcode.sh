@@ -1,1 +1,3 @@
-echo 'hello Tejaswi'
+env=$1
+
+echo 'Hello i am in $env stage'
